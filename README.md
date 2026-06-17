@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hola, soy Ingeniero Electrónico y Magíster en Ingeniería Electrónica
+# 👋 Hola...
 
-Soy un profesional con excelente formación académica, ética y en valores personales, con amplia experiencia en la gestión de procesos tecnológicos, liderazgo de equipos de TI y dirección de proyectos de transformación digital e innovación.
+Soy **Ingeniero Electrónico y Magíster en Ingeniería Electrónica** con excelente formación académica, ética y en valores personales, con amplia experiencia en la gestión de procesos tecnológicos, liderazgo de equipos de TI y dirección de proyectos de transformación digital e innovación.
 
 Cuento con más de **17 años de experiencia** en tecnología, especialmente en **desarrollo de software**, **administración de infraestructura tecnológica**, **cloud computing**, **telefonía IP**, **redes de telecomunicaciones**, **seguridad de la información** y **gestión de servicios de TI**.
 
